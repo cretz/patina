@@ -1,0 +1,4 @@
+#[link(name = "jvm", vers = "1.0", author = "cretz")];
+
+mod main;
+mod class_file;
